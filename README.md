@@ -1,7 +1,8 @@
 # Criar Uma Página Web Utilizando as Tags Aprendidas
 
 
-....
+![Html_Developer](https://github.com/user-attachments/assets/4dd8bd24-2a68-4cca-9c07-4e65f7464bf4)
+
 
 ---
 
@@ -95,6 +96,29 @@ git clone https://github.com/Santosdevbjj/criaPageWeb.git
 ---
 
 
+**Como Abrir o Projeto**
+
+1. Baixe ou clone este repositório
+
+
+2. Abra a pasta no Visual Studio Code
+
+
+3. Clique duas vezes no arquivo index.html para visualizar no navegador
+
+
+
+
+---
+
+✨
+**Autor:**
+
+Sergio Santos 
+
+Projeto criado como etapa prática do módulo “Introdução ao HTML na Prática” – Digital Innovation One.
+
+---
 
 
 
